@@ -1,2 +1,2 @@
-# demos-d
+# demos-lang-d
 Demos for the D programming language
